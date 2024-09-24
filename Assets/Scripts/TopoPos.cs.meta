@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: ead67b0f2bfa3be46884d8e9ac7fc320
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefabTopo: {fileID: 6752858204662412951, guid: 6287d4280b8a0a14c95c34f519b640d0,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
